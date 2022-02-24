@@ -1,0 +1,21 @@
+body{
+        background-image: url('../img/untitleddesign_1_original-102-300x300.png');
+
+    }
+
+    h1{
+        background-image: url('../img/b021a3c2f1cad21be6e3dcb665a363ac.jpg');
+        color: aliceblue;
+    }
+
+    h2{
+        color: aqua;
+    }
+
+    p{
+        color: white;
+    }
+
+a{
+    color: yellow;
+}
